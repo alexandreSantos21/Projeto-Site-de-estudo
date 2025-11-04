@@ -57,8 +57,9 @@ main {
 }
 
 .days {
-    /* background-color: blue; */
-
+    
+    
+    
    
     
     width: 90%;
@@ -69,6 +70,11 @@ main {
     
     
 }
+.days a{
+    text-decoration: none;
+    color: #000;
+}
+
 .days h2 {
     font-family: 'Roboto';
     font-size: 2rem;

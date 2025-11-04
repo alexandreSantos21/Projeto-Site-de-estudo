@@ -61,15 +61,16 @@ main {
 }
 .aula {
     margin-bottom: 10vh;
+    
 }
 
 .aula h2 {
     margin-bottom: 5vh;
     font-size: 2rem;
-    font-family: "Montserrat","Roboto",Arial, Helvetica, sans-serif;     
+    font-family: "Montserrat","Roboto",Arial, Helvetica, sans-serif; 
     font-weight: bold;
+    
 }
-
 .aula p {
     font-size: 1.5rem;
     text-align: justify;
